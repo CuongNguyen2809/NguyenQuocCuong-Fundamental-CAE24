@@ -1,0 +1,18 @@
+vòng l?p và r? nhánh
+1. for i in range()
+*range(3) : 0,1,2
+range(4,10) : 456789
+(3) : di?m k?t thúc
+4 : di?m b?t d?u 
+10 : di?m k?t thúc
+range(2,10,3)
+2 : di?m b?t d?u
+10 : di?m cu?i 
+3 : bu?c nh?y (step)
+
+* hàm sum : tính t?ng
+* Elif = else + if
+* ki?u d? li?u Boolean : g?m có True và False
+* == : so sanh bang
+* != : so sanh khong bang
+* can : **0,5
