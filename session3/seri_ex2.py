@@ -1,4 +1,4 @@
-while True:
+while True: 
     a = input("Guess your number (1 - 100) : ")
     if a.isalpha() or int(a) <1 or int(a) > 100:
         print ("Error")
